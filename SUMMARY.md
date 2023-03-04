@@ -7,7 +7,7 @@
 
 * [BecomeGC](question-group/becomegc.md)
 * [GCWork](question-group/gcwork/README.md)
-  * [What is X like?](question-group/gcwork/what-is-x-like.md)
+  * [What is X like?](best-worst.md)
 
 ***
 

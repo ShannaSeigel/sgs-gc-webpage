@@ -1,2 +1,1 @@
-# GCWork
-
+# Working as a GC

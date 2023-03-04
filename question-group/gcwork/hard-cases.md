@@ -1,0 +1,4 @@
+# How do you deal with tough cases?
+In any healthcare or helping role there will be some days that are rough or some patient situations that are hard to deal with. Remember that people are people, sometimes we're scared, sometimes we react with sadness or anger and just need someone to sit through that with us. We can't solve everyone's problems but we can listen and try to be supportive. And sometimes people are just difficult, so take a breath and let it go as best you can.
+
+Self-care and a good social support system are important here too. That can be fellow classmates, coworkers, friends, family, online genetic counseling groups, lots of things.
