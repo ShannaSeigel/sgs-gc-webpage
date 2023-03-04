@@ -1,4 +1,5 @@
 # Table of contents
 
 * [🧬 Welcome!](README.md)
-* [Page 1](page-1.md)
+  * [Page 2](readme/page-2.md)
+* [Common Questions](common-questions.md)
