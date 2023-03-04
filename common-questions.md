@@ -1,6 +1,0 @@
----
-description: Things
----
-
-# Common Questions
-
